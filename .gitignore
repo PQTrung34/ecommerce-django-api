@@ -1,0 +1,11 @@
+ecommerce_api/__init__.py
+ecommerce_api/settings.py
+
+users/__init__.py
+users/migrations
+
+products/__init__.py
+products/migrations
+
+orders/__init__.py
+orders/migrations
